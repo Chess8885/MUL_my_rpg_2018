@@ -1,6 +1,25 @@
-# MUL_my_rpg_2018
+# Compilation
 
-Skills from B1:
+```bash
+make
+```
+
+# Usage
+
+```bash
+./my_rpg
+```
+
+# Contributors
+
+This project has been made with :
+- Mehdi Sellali
+- Baptiste Goulard de Lacam
+- Paul Naudin
+
+
+# Skills
+
 - Opening windows
 - Loading resource files
 - Interactions using mouse/keyboard inputs.
@@ -9,8 +28,6 @@ Skills from B1:
 - Movement of a camera within a level/scene
 - Scrolling/parallax
 - Animations with sprites
-
-New skills to acquire:
 - Isometric/parallal projection
 - Creation of UI elements (e.g. subwindows, buttons)
 - Responsivity of user interactions (animations, color changes, layering)
